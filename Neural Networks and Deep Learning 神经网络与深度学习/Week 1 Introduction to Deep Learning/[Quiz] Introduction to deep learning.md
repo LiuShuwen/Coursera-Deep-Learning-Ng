@@ -28,7 +28,7 @@
    **Note:** The digitalization of our society has played a huge role to make us accessible to a lot more data. The development of hardware, perhaps especially GPU computing, has significantly improved deep learning algorithms' performance. Online advertising, speech recognition, and image recognition were examples discussed in lecture 3.
 
 3. *Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)*
-![FalVl3ygEeegaQ4NYTdESg_7a0184575b8bdc47f8c3f29601302cb8_Screen-Shot-2017-08-08-at-6.13.59-PM](FalVl3ygEeegaQ4NYTdESg_7a0184575b8bdc47f8c3f29601302cb8_Screen-Shot-2017-08-08-at-6.13.59-PM.png)
+![FalVl3ygEeegaQ4NYTdESg_7a0184575b8bdc47f8c3f29601302cb8_Screen-Shot-2017-08-08-at-6.13.59-PM](img/FalVl3ygEeegaQ4NYTdESg_7a0184575b8bdc47f8c3f29601302cb8_Screen-Shot-2017-08-08-at-6.13.59-PM.png)
 
    - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
    - [x] Faster computation can help speed up how long a team takes to iterate to a good idea.
